@@ -26,6 +26,7 @@ When using the exe, open your terminal and type thebetterunzipper.exe (zip file,
 ### Cons
 - Might be a little bit slower than some extractors.
 - Windows only
+- Zip files only, no tar.gz or rar or whatever other archive files you can think of, its better unZIPper.
 - This is a simple project, so it may not be maintained that much
 
 
